@@ -1,0 +1,15 @@
+{
+    "workbench.starrupEditor": "none",
+    "Window.zoomLevel": 4,
+    "editor.fontSize": 18,
+    "Explorer.compactFolders": false,
+    "code-tunner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.executorMap": {
+        "python": "cls ; python -u"
+    },
+    "code-runner.ignoreSelection": true,
+    "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
+    "worbench.iconTheme": "material-icon-theme",
+    "python.defaultInterpreterPath": "python"
+}
